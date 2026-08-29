@@ -7,7 +7,8 @@ Concise but complete C11 reference with examples.
 ```c
 #include <stdio.h>
 
-int main(void)
+#Every C program must have a 'main' function
+int main(void)  
 {
 	printf("Hello, World!\n");
 	return 0;
